@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +67,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
+
+
+## สิ่งที่ต้องมีก่อนติดตั้งโปรเจคนี้
+
+    1. Node
+    2. Git
+
+## ขั้นตอนการติดตั้ง
+    1. สร้าง Folder ที่ต้องการจะสร้างโปรเจค
+    2. เป็น Command Line (cmd) ขึ้นมา
+    3. ใช้คำสั่งต่อไปนี้
+```bash
+    git clone https://github.com/pabigmz/SNPpowerCompany.git
+
+    cd SNPpowerCompany
+
+    npm start
+```
