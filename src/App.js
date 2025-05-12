@@ -28,7 +28,7 @@ export default function App() {
           </div>
           <div className="p-4 bg-white rounded-lg shadow-md">
             <h3 className="text-xl font-semibold mb-2 text-teal-600">Transformer Maintenance</h3>
-            <p className="text-gray-700">บริการบำรุงรักษาหม้อแปลงไฟฟ้าเพื่อความปลอดภัยและประสิทธิภาพสูงสุด</p>
+            <p className="text-gr-day-700">บริการบำรุงรักษาหม้อแปลงไฟฟ้าเพื่อความปลอดภัยและประสิทธิภาพสูงสุด</p>
           </div>
         </div>
       </main>
