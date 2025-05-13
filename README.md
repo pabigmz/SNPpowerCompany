@@ -72,17 +72,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## สิ่งที่ต้องมีก่อนติดตั้งโปรเจคนี้
 
-    1. Node
-    2. Git
+#### 1. Node ใช้คำสั่งใน Command Line (cmd)
+    node -v
+#### 2. Git
+    git -v
 
 ## ขั้นตอนการติดตั้ง
-    1. สร้าง Folder ที่ต้องการจะสร้างโปรเจค
-    2. เป็น Command Line (cmd) ขึ้นมา
-    3. ใช้คำสั่งต่อไปนี้
+#### 1. สร้าง Folder ที่ต้องการจะสร้างโปรเจค
+#### 2. เป็น Command Line (cmd) ขึ้นมา
+#### 3. ใช้คำสั่งต่อไปนี้
 ```bash
-    git clone https://github.com/pabigmz/SNPpowerCompany.git
-
-    cd SNPpowerCompany
-
-    npm start
+git clone https://github.com/pabigmz/SNPpowerCompany.git
+```
+```bash
+cd SNPpowerCompany
+```
+```bash
+npm start
 ```
